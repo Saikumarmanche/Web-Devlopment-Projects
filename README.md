@@ -134,6 +134,52 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
+## Sai is creating a project for pull request
+By default, pull requests are based on the parent repository's default branch. For more information, see "About branches."
+
+If the default parent repository isn't correct, you can change both the parent repository and the branch with the drop-down lists. You can also swap your head and base branches with the drop-down lists to establish diffs between reference points. References here must be branch names in your GitHub repository.
+
+Screenshot of a pull request. The dropdown to edit the compare branch is expanded.
+
+When thinking about branches, remember that the base branch is where changes should be applied, the head branch contains what you would like to be applied.
+
+When you change the base repository, you also change notifications for the pull request. Everyone that can push to the base repository will receive an email notification and see the new pull request in their dashboard the next time they sign in.
+
+When you change any of the information in the branch range, the Commit and Files changed preview areas will update to show your new range.
+
+Tips:
+
+Using the compare view, you can set up comparisons across any timeframe. For more information, see "Comparing commits."
+Project maintainers can add a pull request template for a repository. Templates include prompts for information in the body of a pull request. For more information, see "About issue and pull request templates."
+Creating the pull request
+On GitHub.com, navigate to the main page of the repository.
+
+In the "Branch" menu, choose the branch that contains your commits.
+
+Screenshot of the branch dropdown menu on the main page of a repository.
+
+Above the list of files, in the yellow banner, click Compare & pull request to create a pull request for the associated branch.
+
+Screenshot of the banner above the list of files.
+
+Use the base branch dropdown menu to select the branch you'd like to merge your changes into, then use the compare branch drop-down menu to choose the topic branch you made your changes in.
+
+Type a title and description for your pull request.
+
+To create a pull request that is ready for review, click Create Pull Request. To create a draft pull request, use the drop-down and select Create Draft Pull Request, then click Draft Pull Request. For more information about draft pull requests, see "About pull requests."
+
+Tip: After you create a pull request, you can ask a specific person to review your proposed changes. For more information, see "Requesting a pull request review."
+
+After your pull request has been reviewed, it can be merged into the repository.
+
+Further reading
+"Creating a pull request from a fork"
+"Keeping your pull request in sync with the base branch"
+"Changing the base branch of a pull request"
+"Adding issues and pull requests to a project (classic)"
+"Creating an issue"
+"Assigning issues and pull requests to other GitHub users"
+"Writing on GitHub"
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
