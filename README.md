@@ -1,5 +1,6 @@
 # 🎃 HacktoberFest Starter Project 🎃
 
+
 Use this project to make your first contribution to an open source project on GitHub. Practice making your first pull request to a public repository before doing the real thing!
 
 Celebrate [Hacktoberfest](https://hacktoberfest.digitalocean.com/) by getting involved in the open source community by completing some simple tasks in this project.
@@ -23,7 +24,18 @@ Here are 3 quick and painless ways to contribute to this project:
 - And If You want to improve that webiste of [List of Contributors](https://web-devlopment-projects-iw9kyul5k-shubhamjain287.vercel.app/) , You can also Contribute to that !!
 
 Choose 1 or all , and make a pull request for your work and wait for it to be merged!
+# This is created by sai
+  iam working on a project related to git and github
+   --GitHub.com
+Development of the GitHub.com platform began on October 19, 2007.[12][13][14] The site was launched in April 2008 by Tom Preston-Werner, Chris Wanstrath, P. J. Hyett and Scott Chacon after it had been available for a few months as a beta release.[15] GitHub has an annual keynote called GitHub Universe.[16]
 
+Organizational structure
+GitHub, Inc. was originally a flat organization with no middle managers; in other words, "everyone is a manager" (self-management).[17] Employees could choose to work on projects that interested them (open allocation), but salaries were set by the chief executive. (i.e Individual or groups of company executive leaders makes decision on project aims and development including funding)[18]
+
+In 2014, GitHub, Inc. added a layer of middle management in response to serious harassment allegations made against its senior leadership. As a result of the scandal, Tom Preston-Werner resigned from his position as CEO.[19]
+
+Finance
+GitHub.com was a bootstrapped start-up business, which in its first years provided enough revenue to be funded solely by its three founders and start taking on employees.[20] In July 2012, four years after the company was founded, Andreessen Horowitz invested $100 million in venture capital.[6] In July 2015 GitHub raised another $250 million of venture capital in a series B round. Investors were Sequoia Capital, Andreessen Horowitz, Thrive Capital, and other venture capital funds.[21] As of 2023, GitHub was estimated to be generating $1 billion in Annual Recurring Revenue.[1] The GitHub service was developed by Chris Wanstrath, P. J. Hyett, Tom Preston-Werner, and Scott Chacon using Ruby on Rails, and started in February 2008. The company, GitHub, Inc., has existed since 2007 and is located in San Francisco.[22]
 ## Getting started
 
 - Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
